@@ -392,7 +392,7 @@
 #zl_right{
     position:absolute;
     right:6px;
-    top:0;
+    top:-7px;
 }
 /*热门头条 start*/
 #headline{
