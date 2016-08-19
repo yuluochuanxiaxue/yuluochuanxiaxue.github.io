@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+/*reset*/
+body, h1, h2, h3, h4, h5, h6, p, dl, dd, ul, ol, pre, form, input,
+textarea, th, td, select {
+    margin: 0;
+    padding: 0;
+}
+em {
+    font-style: normal;
+}
+li {list-style: none;}
+a ,a:hover,a:visited{
+    text-decoration: none;
+    color:black;
+}
+
+img {
+    border: none;
+    vertical-align: top; /* 去除图片上下间的间隙 */
+}
+table {
+    border-collapse: collapse;
+}
+input,textarea{
+    outline: none;/*去除chrome中获得焦点的默认样式，有时候并不需要，可以通过JS进行设置*/
+}
+textarea {
+    resize: none; /* 用户不能调整大小，CSS3属性，部分浏览器不支持 */
+    overflow: auto; /* resize生效的条件是设置overflow的值 */
+}
+body{
+    font-size:12px;
+    font-family: "微软雅黑",sans-serif;
+}
+
+/*end reset*/
