@@ -42,7 +42,7 @@
     display:inline-block;
     width:8px;
     height:8px;
-    background:url(images/rrow.png) no-repeat 0 0;
+    background:url(./images/rrow.png) no-repeat 0 0;
     /*   border:1px solid red;*/
     position:absolute;
     right:0;
