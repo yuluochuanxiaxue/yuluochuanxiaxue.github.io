@@ -180,7 +180,7 @@
     border:none;
     width:68px;
     height:34px;
-    background: #ff8800 url(images/search.png) no-repeat center center;
+    background: #ff8800 url(../images/search.png) no-repeat center center;
     position:absolute;
     right:-68px;
     top:0;
@@ -214,7 +214,7 @@
     display:inline-block;
     width:8px;
     height:8px;
-    background:url(images/vip_top.png) no-repeat 0 0;
+    background:url(../images/vip_top.png) no-repeat 0 0;
     position: absolute;
     top:12px;
     right:0;
@@ -254,7 +254,7 @@
 }
 #banner_main li:first-child{
     display:block;
-    background:url(images/bg1.jpeg) no-repeat center center;
+    background:url(../images/bg1.jpeg) no-repeat center center;
 }
 /*banner_txt start*/
 #banner_txt {
@@ -309,11 +309,11 @@
     display:none;
 }
 #banner .left_row{
-    background:url(images/row.png) 0 0;
+    background:url(../images/row.png) 0 0;
     left:0;
 }
 #banner .right_row{
-    background:url(images/row.png) -55px 0;
+    background:url(../images/row.png) -55px 0;
     right:0;
 }
 /*row end*/
@@ -514,7 +514,7 @@
 #summer_box{
     width:950px;
     height:442px;
-    background: url(images/summer_bg.jpeg) no-repeat 0 32px;
+    background: url(../images/summer_bg.jpeg) no-repeat 0 32px;
     position:relative;
     margin-bottom: 20px;
 }
@@ -560,7 +560,7 @@
 
     padding-left:10px;
     margin-bottom: 6px;
-    background: url(images/summer_go.png) no-repeat;
+    background: url(../images/summer_go.png) no-repeat;
 }
 ul.summer_left {
     position: absolute;
@@ -670,7 +670,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .board_left li a{
@@ -788,7 +788,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .short_left li a{
@@ -901,7 +901,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .local_left li a{
@@ -1014,7 +1014,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 }
 .surround_left li a{
     font-size: 13px;
@@ -1127,7 +1127,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .theme_left li a{
@@ -1234,7 +1234,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .zizhu_left li a{
@@ -1341,7 +1341,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .qianzhen_left li a{
@@ -1448,7 +1448,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .zijia_left li a{
@@ -1555,7 +1555,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .jiudian_left li a{
@@ -1662,7 +1662,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .menpiao_left li a{
@@ -1769,7 +1769,7 @@ ul.summer_left {
     width:94px;
     padding-left:7px;
     margin-bottom: 5px;
-    background: url(images/titpoint.png) no-repeat left center;
+    background: url(../images/titpoint.png) no-repeat left center;
 
 }
 .wanle_left li a{
@@ -1850,13 +1850,13 @@ ul.summer_left {
     width:14px;
     height:12px;
     margin-right:2px;
-    background: url(images/yj.png) no-repeat -26px 0;
+    background: url(../images/yj.png) no-repeat -26px 0;
 }
 .gonglue_header  .right_i i{
     display: inline-block;
     width:23px;
     height:15px;
-    background: url(images/yj.png) no-repeat 0 0;
+    background: url(../images/yj.png) no-repeat 0 0;
 }
 .gonglue_header .head2{
     width: 950px;
@@ -1930,7 +1930,7 @@ a,span{
     display:inline-block;
     width:40px;
     height:40px;
-    background:url(images/p1.png) no-repeat 0 0 ;
+    background:url(../images/p1.png) no-repeat 0 0 ;
     border-radius: 50%;
     margin-left:10px;
 }
