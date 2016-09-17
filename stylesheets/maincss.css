@@ -42,7 +42,7 @@
     display:inline-block;
     width:8px;
     height:8px;
-    background:url(./images/rrow.png) no-repeat 0 0;
+    background:url(../images/rrow.png) no-repeat 0 0;
     /*   border:1px solid red;*/
     position:absolute;
     right:0;
@@ -116,7 +116,7 @@
     display:inline-block;
     width:8px;
     height:8px;
-    background:url(images/s_top.png) no-repeat 0 0;
+    background:url(../images/s_top.png) no-repeat 0 0;
     position:absolute;
     left:65px;
     top:14px;
